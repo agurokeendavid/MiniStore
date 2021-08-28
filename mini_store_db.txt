@@ -1,0 +1,5 @@
+A,3-in-1 coffee,10.00,25
+B,Cup noodles,20.00,12
+C,Laundry soap,25.00,10
+D,Bottled water,20.00,5
+E,Shampoo,12.00,14
